@@ -10,4 +10,8 @@ Crear una lista de tareas donde el usuario puede agregar nuevas tareas, marcar t
 - Cada tarea se agrega como un elemento de lista (`<li>`) con dos botones: uno para marcar la tarea como completada y otro para eliminarla de la lista.
 - Al hacer clic en el botón "Completar", el estilo de la tarea cambia con una línea tachada. Al hacer clic en el botón "Eliminar", la tarea se elimina de la lista.
 
+### ✅ Solución esperada
+
+![final](./solution.gif)
+
 ## 🚀 Happy Coding 🚀
